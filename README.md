@@ -64,7 +64,6 @@ Response Body :{
 <p>Uri : localhost:8000/api/login</p>
 
 <pre>
-localhost:8000/api/login
 
 Request Body :{
 	"email":"test@gmail.com",
