@@ -96,7 +96,19 @@ Request Body :{
 Response Body :{
     "errorCode": "200",
     "errorDescription": "Successfully Registered Absence In",
-    "errorMessage": []
+    "data": {
+        "absence_id": "2",
+        "absence_in": "2022-01-23 18:58:25",
+        "ip_address": "180.252.83.113",
+        "absence_sts": 0,
+        "city_name": "Bogor",
+        "region_name": "West Java",
+        "country_code": "ID",
+        "country_name": "Indonesia",
+        "latitude": "-6.3022",
+        "longitude": "107.3084",
+        "absence_desc": 1
+    }
 }
 </pre>
 <br>
